@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Champion lolzinho",
+    "slug": "champion-lolzinho",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "sdkVersion": "37.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cardoso.everton",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cardoso.everton",
+      "versionCode": 1
+    }
+  }
+}

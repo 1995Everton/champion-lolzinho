@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> unofficial league of legends api, there you have access to character data, such as abilities, skins, attributes and items
+> react-native project using the league of legends api
 
 ### 🏠 [Homepage](https://github.com/1995Everton/champion-lolzinho#readme)
 
@@ -24,8 +24,8 @@
 
 ## 🔋 Requirements
 
-  [NodeJs](https://nodejs.org/en/)
-  [Android Studio](https://developer.android.com/studio)
+  * [NodeJs](https://nodejs.org/en/)
+  * [Android Studio](https://developer.android.com/studio)
 
 ## 👉 Install
 
